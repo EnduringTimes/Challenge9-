@@ -76,4 +76,4 @@ If you have any questions, feel free to reach out:
 
 ## Walkthrough Video
 
-Check out the walkthrough video to see how it works: [Watch the video](videos/ChickenKing.mp4)
+Check out the walkthrough video to see how it works: [Watch the video](https://streamable.com/bdm0yg)
